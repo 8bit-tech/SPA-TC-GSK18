@@ -1,0 +1,19 @@
+{
+  "name": "spa-tc-gsk18",
+  "version": "1.0.0",
+  "description": "Web resource for small community on React/NodeJS (learning course)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8bit-tech/SPA-TC-GSK18.git"
+  },
+  "author": "Artemy Lance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8bit-tech/SPA-TC-GSK18/issues"
+  },
+  "homepage": "https://github.com/8bit-tech/SPA-TC-GSK18#readme"
+}
